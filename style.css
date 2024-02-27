@@ -1,0 +1,30 @@
+#icon{
+    margin-left: 30%;
+}
+#form{
+    text-align: center;
+    margin-left: 1%;
+}
+
+#icon2{
+    margin-left: 5%;
+    padding-inline: 10px;
+}
+#form2{
+    text-align: center;
+    border: 10%;
+}
+
+#heading{
+
+}
+
+#icon3{
+    padding: auto;
+}
+.form4{
+    border-right: 1px;
+    display: grid;
+    grid-template-columns: 60%60%;
+    
+}
