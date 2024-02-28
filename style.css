@@ -21,10 +21,31 @@
 
 #icon3{
     padding: auto;
+
 }
 .form4{
-    border-right: 1px;
+   
     display: grid;
     grid-template-columns: 60%60%;
     
+    
 }
+.text{
+    color: blueviolet;
+}
+.labels{
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+}
+#icons{
+    
+    height: 500%;
+    width: 5%;
+}
+.input{
+    border-width: solid 1px;
+    width: 50%;
+    padding: 22px 30px;
+}
+
