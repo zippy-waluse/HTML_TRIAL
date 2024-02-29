@@ -43,14 +43,13 @@
     gap: 5%;
 }
 #icons{
-    grid-template-rows: auto;
-    height: 500%;
-    width: 5%;
+  
 }
 .input{
     border-width: solid 1px;
     width: 50%;
     padding: 22px 30px;
+    border-radius: 20%;
 }
 
 
